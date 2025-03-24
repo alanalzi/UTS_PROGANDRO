@@ -1,0 +1,5 @@
+WARNA COLOR PALETTE :
+- FC5007 : Oren Background
+- FC7907 : Oren Muda Menu
+- FFFFFF : Putih Background
+- E8E6E6 : Putih Keabu-abuan Menu
