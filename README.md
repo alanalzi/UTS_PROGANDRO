@@ -2,3 +2,6 @@
 71220824 - DAVID ALAN MULIA PRIANTARA
 71220869 - NICHOLAS DWINATA
 71220953 - YEREMIA CHRISTOPHER
+
+
+link Figma:https://www.figma.com/design/Vds9ZOPfyKjdfK3jHHQxXy/Task-Reminders-(Community)?node-id=0-1&t=DIJIU2cIGI0j0gkA-1
